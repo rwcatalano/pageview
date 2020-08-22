@@ -1,0 +1,16 @@
+{
+  "name": "pageview",
+  "version": "1.0.0",
+  "description": "Pageview CRUD",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "pageview",
+    "microservice",
+    "buskir"
+  ],
+  "author": "Robert W. Catalano",
+  "license": "ISC"
+}
